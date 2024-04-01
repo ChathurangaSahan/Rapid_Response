@@ -50,8 +50,6 @@ Contributing
 We welcome contributions from the community to enhance the functionality and effectiveness of the Rapid Response application. 
 To contribute, please fork the repository, make your changes, and submit a pull request for review.
 
-For more information and detailed documentation, refer to the Wiki section of this repository.
-
 --Authors--
 Full name of programmer	: Haputhanthrige Sahan Chathuranga Samarasinghe
 IIT registration number : 20220334
