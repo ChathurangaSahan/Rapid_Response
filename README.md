@@ -72,4 +72,4 @@ IIT registration number : 20220332
 UoW registration number	: w1953207
 
 # --Contact--
-For inquiries or support, please contact us at chathurangasahan2002@gmail.com
+For inquiries or support, please contact us at chathurangasahan2002@gmail.com or call +94 77 951 4789
